@@ -43,11 +43,11 @@ python3 Runner_techniques_analysis_120_STMGCN.py
 In `STCFP_External\Experiments\STMeta` directory, run the following commands.
 
 ```bash
-python3 Runner_features_analysis_30_STMeta.py
+python3 Runner_techniques_analysis_30_STMeta.py
 
-python3 Runner_features_analysis_60_STMeta.py
+python3 Runner_techniques_analysis_60_STMeta.py
 
-python3 Runner_features_analysis_120_STMeta.py
+python3 Runner_techniques_analysis_120_STMeta.py
 ```
 
 ## Exploring the generalizability of context features
